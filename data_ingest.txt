@@ -3,3 +3,4 @@ Croydyn here. I am rallying up my skills.
 What are you doing.
 I am ingesting more data.
 I am ingesting batch data.
+I am a serious developer
